@@ -1,0 +1,5 @@
+<AquariaMod>
+	<Fullname text="FG's Screensaver"/>
+	<Description text="FG's Screensaver test mod (requires v1.1.3+)"/>
+    <Properties DebugMenu="1" recache="0" hasWorldMap="0" />
+</AquariaMod>
