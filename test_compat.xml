@@ -1,0 +1,5 @@
+<AquariaMod>
+	<Fullname text="FG Compat test"/>
+	<Description text="Test for inc_compat.lua"/>
+    <Properties DebugMenu="1" recache="0" />
+</AquariaMod>
